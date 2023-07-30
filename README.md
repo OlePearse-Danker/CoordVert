@@ -1,2 +1,2 @@
 # CoordVert
-Converts Decimal Degrees Coordinates into google maps searchable coordinates
+Converts Decimal Degrees Coordinates into Google Maps searchable coordinates
